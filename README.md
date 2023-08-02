@@ -23,4 +23,4 @@ How to run project locally:
 - Open http://localhost:5173 to view it in the browser.
 
 __________________
-DEMO[https://real-time-chat-client-irina-kulish.vercel.app/]
+[DEMO LINK](https://real-time-chat-client-irina-kulish.vercel.app/)
