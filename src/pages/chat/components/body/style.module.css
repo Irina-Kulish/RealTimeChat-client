@@ -1,0 +1,64 @@
+.header {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+.btn {
+  padding: 10px;
+  width: 150px;
+  border: none;
+  outline: none;
+  background-color: #d1512d;
+  cursor: pointer;
+  color: #eae3d2;
+}
+
+.container {
+  height: 80vh;
+  padding: 20px;
+  overflow-y: scroll;
+}
+
+.container::-webkit-scrollbar {
+  background: #151318;
+}
+
+.container > * {
+  margin-bottom: 10px;
+}
+
+.chats > p {
+  font-size: 13px;
+}
+
+.senderName {
+  padding-right: 5px;
+  text-align: right;
+  color: aliceblue;
+}
+
+.messagrName {
+  color: aliceblue;
+}
+
+.messageRecipiend {
+  display: table;
+  background-color: rgb(163, 217, 163);
+  min-width: 300px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.messageSender {
+  display: table;
+  background-color: rgb(194, 243, 194);
+  width: 300px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: auto;
+  font-size: 15px;
+}
