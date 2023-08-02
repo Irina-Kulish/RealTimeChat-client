@@ -21,3 +21,6 @@ How to run project locally:
 - Run npm install to install all dependencies
 - Run npm run dev to start the app
 - Open http://localhost:5173 to view it in the browser.
+
+__________________
+DEMO[https://real-time-chat-client-irina-kulish.vercel.app/]
